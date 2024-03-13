@@ -7,7 +7,11 @@ En este proyecto de iniciación he creado un un pequeño formulario para suscrib
 ![Inicio proyecto](https://github.com/jotaeme890/Presentacion-Dual-2/blob/main/Imagenes/Inicio1.png)
 ![Suscrito](https://github.com/jotaeme890/Presentacion-Dual-2/blob/main/Imagenes/Inicio2.png)
 
+
 ## Segundo proyecto
 En este proyecto he aumentado mis conocimientos ya que he usado cosas que no había usado anteriormente, cómo pueden ser: Interceptores, Guardas CanDeactivate, ...
 ![Página principal](https://github.com/jotaeme890/Presentacion-Dual-2/blob/main/Imagenes/Inicio3.png)
 ![Carrito](https://github.com/jotaeme890/Presentacion-Dual-2/blob/main/Imagenes/Carrito.png)
+
+
+# Presentación
