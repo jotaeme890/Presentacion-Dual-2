@@ -16,3 +16,4 @@ En este proyecto he aumentado mis conocimientos ya que he usado cosas que no hab
 
 # Presentación
 ## Paso por la empresa
+https://github.com/jotaeme890/Presentacion-Dual-2/tree/main/PDF
