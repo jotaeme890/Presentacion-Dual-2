@@ -17,3 +17,6 @@ En este proyecto he aumentado mis conocimientos ya que he usado cosas que no hab
 # Presentación
 ## Paso por la empresa
 ![Presentación](https://github.com/jotaeme890/Presentacion-Dual-2/blob/main/PDF/PASO%20POR%20LA%20EMPRESA.pdf)
+
+## Prácticas por semanas
+![Presentación](https://github.com/jotaeme890/Presentacion-Dual-2/blob/main/PDF/EXPERIENCIA.pdf)
